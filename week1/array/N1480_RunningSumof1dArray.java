@@ -1,4 +1,5 @@
-class Solution{
+package array;
+public class Solution{
 	public static int[] runningSum(int[] nums){
 		int size = nums.length;
 		if(size == 0){
