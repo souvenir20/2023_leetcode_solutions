@@ -8,4 +8,4 @@ collection about some leetcode problem solutions , from week1 to unknow.
 |[N205 判断字符串同构](https://leetcode.cn/problems/isomorphic-strings/)|[solu](https://github.com/souvenir20/2023_leetcode_solutions/blob/main/week1/String_java/N205_Isomorphic_Strings.java)|
 |[N392 判断子串](https://leetcode.cn/problems/is-subsequence/)|[solu](https://github.com/souvenir20/2023_leetcode_solutions/blob/main/week1/String_java/N392_IsSubsequence.java)|
 
-[week1 brief introduction and my ideas]()
+[week1 brief introduction and my ideas](https://github.com/souvenir20/2023_leetcode_solutions/blob/main/week1/WEEK1%20Summary.md)
